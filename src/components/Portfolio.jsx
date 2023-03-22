@@ -36,7 +36,7 @@ const Portfolio = () => {
       id: 5,
       src: careercopilot,
       codeLink: "https://github.com/aghildev/career-copilot",
-      liveLink: "https://careercopilot1.netlify.app"
+      liveLink: "https://careercopilot12.netlify.app"
     },
     {
       id: 6,
